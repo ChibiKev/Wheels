@@ -1,4 +1,4 @@
-## Intro To Computing
+## Wheels
 Project for CSC 103 - Intro To Computing with Professor William Skeith at the City College of New York.
 ## About The Project
 In this project, you’ll re-implement some standard unix utilities. In particular, you’ll make clones (perhaps with some missing or different functionality) of wc, sort, uniq, shuf and tr.
